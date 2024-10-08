@@ -1,0 +1,12 @@
+---
+title: "Spanish 709"
+author: "Kevin Navarrete-Parra"
+format: 
+    revealjs:
+        theme: moon
+---
+
+## Slide 1
+
+- Bullet 1
+- Bullet 2
