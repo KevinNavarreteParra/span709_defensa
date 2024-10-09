@@ -1,12 +1,63 @@
 ---
-title: "Spanish 709"
+title: "Importing Political Polarization? The Electoral Consequences of Rising Trade Exposure"
 author: "Kevin Navarrete-Parra"
+title-slide-attributes: 
+  data-notes: "¿Importando Polarización Política? Las Consequencias Electorales del Aumento de Competencia de Importaciones"
 format: 
     revealjs:
         theme: moon
+        incremental: true
+date: "2024-10-14"
+date-format: "YYYY-MM-DD"
+institute: "University of Nevada, Las Vegas"
 ---
 
-## Slide 1
+## Índice
 
-- Bullet 1
-- Bullet 2
+1. Por Qué Este Artículo
+2. Pregunta de Investigación
+3. Teoría y Argumento
+4. Variables
+5. Modelo
+6. Resultados
+7. Conclusión
+
+::: {.notes}
+Try to go through each incremental step relatively **quickly**.
+:::
+
+# ¿Por Qué Este Artículo y No Otro?
+
+En orden de importancia: 
+
+1. Me interesa mucho y me hace pensar
+2. Toca un tema controvertido e inquieto en mi campo
+3. Me fascina cómo investigaron su pregunta
+4. La questión tiene impacto bastante real e importante
+
+## Pregunta de Investigación
+
+::: {.fragment .fade-in-then-semi-out}
+¿Ha contribuido el aumento de la competencia de importaciones a la polarización de la política estadounidense?
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+En particular, ¿Cuál es el impacto de la competencia china después su *milagro económico*?
+:::
+
+::: {.notes}
+El milagro económico empezó después de que Deng Xiaoping reformó la economía china, empezando en 1978. 
+
+Se dice que fue un "milagro" porque el país sostuvo un crecimiento de más o menos 9.5% entre 1978 y 2013, eventualmente sobrepasando a japón como la segunda economía más grande del mundo en 2010. 
+:::
+
+## Visualizando el Milagro
+
+![](figures/Prc1952-2005gdp.gif)
+
+::: {.notes}
+https://en.wikipedia.org/wiki/Chinese_economic_reform#/media/File:Prc1952-2005gdp.gif
+:::
+
+## Teoría y Argumento
+
