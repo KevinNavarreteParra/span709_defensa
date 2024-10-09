@@ -14,3 +14,6 @@
 *.esm.js.map
 *.js.map
 plugin.yml
+
+/.quarto/
+/_site/
