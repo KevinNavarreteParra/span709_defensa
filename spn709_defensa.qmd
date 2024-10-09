@@ -18,13 +18,14 @@ nocite: |
 
 ## Índice
 
-1. Por Qué Este Artículo
+1. ¿Por Qué Este Artículo?
 2. Pregunta de Investigación
 3. Teoría y Argumento
 4. Variables
 5. Modelo
 6. Resultados
-7. Conclusión
+7. ¿Otras Explicaciones?
+8. Conclusión
 
 ::: {.notes}
 Try to go through each incremental step relatively **quickly**.
@@ -60,7 +61,7 @@ Se dice que fue un "milagro" porque el país sostuvo un crecimiento de más o me
 ## ¿Qué Milagro y Porqué es Relevante? 
 
 ::: {.nonincremental}
-![](figures/Prc1952-2005gdp.gif)
+![El crecimiento de China fue exponencial después del año 2000.](figures/Prc1952-2005gdp.gif)
 :::
 
 ::: {.notes}
@@ -81,7 +82,7 @@ https://en.wikipedia.org/wiki/Chinese_economic_reform#/media/File:Prc1952-2005gd
 
 ::: {.column width="40%"}
 
-![](figures/nominate-scores.png)
+![Los promedios se divergen más año tras año.](figures/nominate-scores.png)
 
 :::
 
@@ -112,12 +113,38 @@ En este caso, el mismo método se usó para calcular el nivel de polarización e
 
 :::
 
-## Teoría y Argumento
+## Teoría y Argumento -- Fundamentos
 
+::: {.fragment .fade-in-then-semi-out}
+Bifurcación de trabajos [@autor2013growth]--con efectos particularmente agudos en industrias expuestas a competencia china [@bernard2006survival; @pierce2012concordance; @acemoglu2016import; @autor2013china; @feler2017trade]
+:::
 
+::: {.fragment .fade-in-then-semi-out}
+Aumento de competencia después de accesión china a la Organización Mundial del Comercio (OMC)
+:::
+
+## Teoría y Argumento -- Consecuencias
+
+::: {.fragment .fade-in-then-semi-out}
+Áreas más expuestas buscarán una solución--una red social remunerativa [@autor2013china] o política proteccionista
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+Políticos conservadores tienen una incentiva a favor de retórica populista y racial [@hutchings2004centrality; @inglehart2016trump]
+:::
 
 ::: {.notes}
 
+:::
+
+## Teoría y Argumento -- Mecanismo 
+
+::: {.fragment .fade-in-then-semi-out}
+Conforme vaya aumentando la competencia china, también habrá más política derechista y radical--en particular entre ciudadanos blancos
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+Políticos de la isquierda también verán beneficios electorales, pero el efecto neto cae a favor de los Republicanos
 :::
 
 ## Variables
@@ -137,6 +164,12 @@ En este caso, el mismo método se usó para calcular el nivel de polarización e
 ## Resultados
 
 
+
+::: {.notes}
+
+:::
+
+## ¿Otras Explicaciones?
 
 ::: {.notes}
 
