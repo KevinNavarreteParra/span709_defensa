@@ -30,7 +30,27 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="spn709_defensa_files/libs/revealjs/dist/theme/quarto.css">
   <link href="spn709_defensa_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="spn709_defensa_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -402,9 +422,46 @@ Kevin Navarrete-Parra
 </section>
 <section id="visualizando-el-milagro" class="slide level2">
 <h2>Visualizando el Milagro</h2>
-
-<img data-src="figures/Prc1952-2005gdp.gif" class="r-stretch"><aside class="notes">
+<div>
+<p><img data-src="figures/Prc1952-2005gdp.gif"></p>
+</div>
+<aside class="notes">
+<p>PIB: Producto interno bruto</p>
+<p>El valor monetario de la producción de bienes y servicios.</p>
+<p>En este caso, no se ajustó por el efecto de la inflación.</p>
 <p>https://en.wikipedia.org/wiki/Chinese_economic_reform#/media/File:Prc1952-2005gdp.gif</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="cómo-entienden-la-polarización" class="slide level2">
+<h2>¿Cómo Entienden la Polarización?</h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<p><img data-src="figures/nominate-scores.png"></p>
+</div><div class="column" style="width:60%;">
+<div class="fragment fade-in-then-semi-out">
+<p>¿Cómo se mide <span class="citation" data-cites="poole2000congress">(<a href="" role="doc-biblioref" onclick="return false;">Poole &amp; Rosenthal, 2000</a>)</span>?</p>
+</div>
+<div class="fragment fade-in-then-semi-out">
+<p>¿Porqué importa?</p>
+</div>
+<div class="fragment fade-in-then-semi-out">
+<p>¿Qué indican todas las líneas en la gráfica?</p>
+</div>
+</div></div>
+<aside class="notes">
+<p>La polarización se mide usando un método llamado DW Nominate</p>
+<p>Este método cuenta los votos de los representantes y calcula una escala liberal-conservadora, la cual demuestra la dirección ideológica de los sujetos.</p>
+<p>En este caso, el mismo método se usó para calcular el nivel de polarización en la población general.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -481,6 +538,7 @@ Kevin Navarrete-Parra
           display:block!important;
       }</style></aside>
 </section>
+<section>
 <section id="conclusión" class="title-slide slide level1 center">
 <h1>Conclusión</h1>
 <aside class="notes">
@@ -496,12 +554,18 @@ Kevin Navarrete-Parra
           overflow: hidden!important;
           display:block!important;
       }</style></aside>
+</section>
+<h3 id="referencias">Referencias</h3>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-poole2000congress" class="csl-entry" role="listitem">
+Poole, K. T., &amp; Rosenthal, H. (2000). <em>Congress: A political-economic history of roll call voting</em>. Oxford University Press, USA.
+</div>
+</div>
 <div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 
 </div>
-</div>
-</section>
+</div></section>
     </div>
   </div>
 
