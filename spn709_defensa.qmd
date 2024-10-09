@@ -26,7 +26,7 @@ institute: "University of Nevada, Las Vegas"
 Try to go through each incremental step relatively **quickly**.
 :::
 
-# ¿Por Qué Este Artículo y No Otro?
+## ¿Por Qué Este Artículo y No Otro?
 
 En orden de importancia: 
 
@@ -61,3 +61,36 @@ https://en.wikipedia.org/wiki/Chinese_economic_reform#/media/File:Prc1952-2005gd
 
 ## Teoría y Argumento
 
+
+
+::: {.notes}
+
+:::
+
+## Variables
+
+
+::: {.notes}
+
+:::
+
+## Modelo
+
+
+::: {.notes}
+
+:::
+
+## Resultados
+
+
+
+::: {.notes}
+
+:::
+
+# Conclusión
+
+::: {.notes}
+
+:::
