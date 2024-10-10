@@ -231,6 +231,16 @@ En áreas con una proporción más alta de minorías
 
 ## ¿Otras Explicaciones?
 
+::: {.fragment .fade-in-then-semi-out}
+Los élites políticos impulsan a la polarización, haciendo que la ciudadanía se polarize también [@hetherington2001resurgent]
+:::
+::: {.fragment .fade-in-then-semi-out}
+La fragmentación mediática constituye otra explicación relevante [@mancini2013media]
+:::
+::: {.fragment .fade-in-then-semi-out}
+Desigualdad económica también puede ocasionar polarización [@flavin2010political]
+:::
+
 ::: {.notes}
 
 :::
