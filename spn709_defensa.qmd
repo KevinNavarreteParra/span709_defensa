@@ -33,12 +33,18 @@ Try to go through each incremental step relatively **quickly**.
 
 ## ¿Por Qué Este Artículo y No Otro?
 
-En orden de importancia: 
-
-1. Me interesa mucho y me hace pensar
-2. Toca un tema controvertido e inquieto en mi campo
-3. Me fascina cómo investigaron su pregunta
-4. La questión tiene impacto bastante real e importante
+::: {.fragment .fade-in-then-semi-out}
+Me interesa mucho y me hace pensar
+:::
+::: {.fragment .fade-in-then-semi-out}
+Toca un tema controvertido e inquieto en mi campo
+:::
+::: {.fragment .fade-in-then-semi-out}
+Me fascina cómo investigaron su pregunta
+:::
+::: {.fragment .fade-in-then-semi-out}
+La questión tiene impacto bastante real e importante
+:::
 
 ## Pregunta de Investigación
 
@@ -113,6 +119,8 @@ En este caso, el mismo método se usó para calcular el nivel de polarización e
 
 :::
 
+# Flujo del Argumento
+
 ## Teoría y Argumento -- Fundamentos
 
 ::: {.fragment .fade-in-then-semi-out}
@@ -147,6 +155,8 @@ Conforme vaya aumentando la competencia china, también habrá más política de
 Políticos de la isquierda también verán beneficios electorales, pero el efecto neto cae a favor de los Republicanos
 :::
 
+# Variables
+
 ## Variables Dependientes
 
 ::: {.fragment .fade-in-then-semi-out}
@@ -162,6 +172,7 @@ DW Nominate, con enfoque en política de comercio
 :::
 
 ## Variable Independiente
+
 ::: {.fragment .fade-in-then-semi-out}
 $$
 \mathit{Competencia} = \Delta\mathit{IP}_{\mathit{i\tau}}^{\mathit{cu}} = \sum_j \frac{\mathit{L_{ijt}}}{\mathit{L_{it}}}\Delta \mathit{IP_{j\tau}^{cu}}
@@ -175,7 +186,9 @@ $\Delta \mathit{IP_{j\tau}^{cu}}$ is the growth of Chinese import penetration in
 $\frac{\mathit{L_ijt}}{\mathit{L_{it}}}$ is the share of industry $j$ in CZ $i$'s total employment, as measured in County Business Patterns data. 
 :::
 
-## Modelo
+# Especificación Estadística
+
+## Modelos
 
 ::: {.fragment .fade-in-then-semi-out}
 Regresión de mínimos cuadrados ordinarios (MCS)
@@ -197,7 +210,8 @@ $X'$ son variables controlando fenómenos políticos
 $Z'$ son variables controlando características económicas y demográficas
 :::
 
-## Resultados
+
+# Resultados
 
 
 
@@ -205,13 +219,13 @@ $Z'$ son variables controlando características económicas y demográficas
 
 :::
 
-## ¿Otras Explicaciones?
+# ¿Otras Explicaciones?
 
 ::: {.notes}
 
 :::
 
-## Conclusión
+# Conclusión
 
 ::: {.notes}
 
