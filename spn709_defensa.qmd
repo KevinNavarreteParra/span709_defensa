@@ -183,9 +183,18 @@ Regresión de mínimos cuadrados ordinarios (MCS)
 ::: {.fragment .fade-in-then-semi-out}
 Regresión de variable instrumental
 :::
+::: {.fragment .fade-in-then-semi-out}
+$$ 
+\Delta \mathit{Y_{j\tau}} = \gamma + \beta_{1} \Delta \mathit{IP_{j\tau}^{cu}} + \mathit{X'_{jt}} \beta_{3} + Z'_{jt} \beta_{2} + e_{jt} 
+$$
+:::
 
 ::: {.notes}
 2SLS para controlar la relación endógena usando un variable midiendo
+
+$X'$ son variables controlando fenómenos políticos
+
+$Z'$ son variables controlando características económicas y demográficas
 :::
 
 ## Resultados
