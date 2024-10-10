@@ -213,19 +213,35 @@ $Z'$ son variables controlando características económicas y demográficas
 
 # Resultados
 
+## Desplazamiento General y Particular
 
+::: {.fragment .fade-in-then-semi-out}
+Hubo un movimiento general a favor de políticos derechistas más radicales a través de todos los niveles estudiados
+:::
+::: {.fragment .fade-in-then-semi-out}
+El efecto fue particularmente agudo en áreas con proporciones altas de ciudadanos blancos
+:::
+::: {.fragment .fade-in-then-semi-out}
+En áreas con una proporción más alta de minorías
+:::
 
 ::: {.notes}
 
 :::
 
-# ¿Otras Explicaciones?
+## ¿Otras Explicaciones?
 
 ::: {.notes}
 
 :::
 
 # Conclusión
+::: {.fragment .fade-in-then-semi-out}
+Todavía sigue inquieta esta área de investigación, pero este artículo presenta un argumento persuasivo e interesante
+:::
+::: {.fragment .fade-in-then-semi-out}
+Es un tema complicado por todas las posibles explicaciones; es probable que una respuesta comprensiva abarque varias explicaciones 
+:::
 
 ::: {.notes}
 
