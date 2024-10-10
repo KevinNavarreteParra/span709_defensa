@@ -181,7 +181,7 @@ $$
 
 
 ::: {.notes}
-$\Delta \mathit{IP_{j\tau}^{cu}}$ is the growth of Chinese import penetration in the US for industry $j$ over period $\tau$, computed as the growth in US imports from China during the outcome period, $\Delta\textit{M^{cu}_j\tau}$, divided by initial absorption. 
+$\Delta \mathit{IP_{j\tau}^{cu}}$ is the growth of Chinese import penetration in the US for industry $j$ over period $\tau$, computed as the growth in US imports from China during the outcome period, $\Delta\textit{M^{cu}_{j\tau}}$, divided by initial absorption. 
 
 $\frac{\mathit{L_ijt}}{\mathit{L_{it}}}$ is the share of industry $j$ in CZ $i$'s total employment, as measured in County Business Patterns data. 
 :::
