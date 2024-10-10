@@ -147,18 +147,45 @@ Conforme vaya aumentando la competencia china, también habrá más política de
 Políticos de la isquierda también verán beneficios electorales, pero el efecto neto cae a favor de los Republicanos
 :::
 
-## Variables
+## Variables Dependientes
+
+::: {.fragment .fade-in-then-semi-out}
+Puntaje ideológico de Pew
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+DW Nominate
+::: 
+
+::: {.fragment .fade-in-then-semi-out}
+DW Nominate, con enfoque en política de comercio
+:::
+
+## Variable Independiente
+::: {.fragment .fade-in-then-semi-out}
+$$
+\mathit{Competencia} = \Delta\mathit{IP}_{\mathit{i\tau}}^{\mathit{cu}} = \sum_j \frac{\mathit{L_{ijt}}}{\mathit{L_{it}}}\Delta \mathit{IP_{j\tau}^{cu}}
+$$
+:::
 
 
 ::: {.notes}
+$\Delta \mathit{IP_{j\tau}^{cu}}$ is the growth of Chinese import penetration in the US for industry $j$ over period $\tau$, computed as the growth in US imports from China during the outcome period, $\Delta\textit{M^{cu}_j\tau}$, divided by initial absorption. 
 
+$\frac{\mathit{L_ijt}}{\mathit{L_{it}}}$ is the share of industry $j$ in CZ $i$'s total employment, as measured in County Business Patterns data. 
 :::
 
 ## Modelo
 
+::: {.fragment .fade-in-then-semi-out}
+Regresión de mínimos cuadrados ordinarios (MCS)
+:::
+::: {.fragment .fade-in-then-semi-out}
+Regresión de variable instrumental
+:::
 
 ::: {.notes}
-
+2SLS para controlar la relación endógena usando un variable midiendo
 :::
 
 ## Resultados
